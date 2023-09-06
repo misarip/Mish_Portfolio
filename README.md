@@ -25,4 +25,4 @@ The following are my Projects:
 * ***E-Waste recycling for Gaming Controllers***: _Below project led me to experience a process for innovation—identifying, understanding, conceptualizing, and realizing— to arrive at a new or novel product/service opportunity and solution._
 * ***MIYO - <Sub>Make It Your Own</sub>***: _Below project was a great experience of  working on an innovation project under a tight timeline._
 * ***Final Project***
-  ![Comming Soon]([<iframe src="https://giphy.com/embed/fUYp0iOzQfC540KCs4" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ginamo-real-estate-realtor-coming-soon-fUYp0iOzQfC540KCs4">via GIPHY</a></p>](https://media.giphy.com/media/fUYp0iOzQfC540KCs4/giphy.gif)https://media.giphy.com/media/fUYp0iOzQfC540KCs4/giphy.gif)
+![Coming Soon!](https://media.giphy.com/media/fUYp0iOzQfC540KCs4/giphy.gif)
