@@ -1,5 +1,5 @@
 # Mish_Portfolio
-## About me
+## [About me](main/About Me)
 I am a User-Experience Designer aspiring to design highly impactful strategies, driven by curiosity, fueled by diverse experience, and sustained by pragmatism. Currently, pursuing my master's degree in Integrated Innovation for Products and Services from Carnegie Mellon University, I am learning about the different aspects of product development including design, engineering, and business.
 
 I enjoy conducting user interviews, deconstructing data to develop insights, communicating those insights to stakeholders, iterating on prototypes, and eventually defining the strategic directions to address the relevant challenges.      
