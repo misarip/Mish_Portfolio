@@ -25,4 +25,5 @@ The following are my Projects:
 * ***E-Waste recycling for Gaming Controllers***: _Below project led me to experience a process for innovation—identifying, understanding, conceptualizing, and realizing— to arrive at a new or novel product/service opportunity and solution._
 * ***MIYO - <Sub>Make It Your Own</sub>***: _Below project was a great experience of  working on an innovation project under a tight timeline._
 * ***Final Project***
+
 ![Coming Soon!](https://media.giphy.com/media/fUYp0iOzQfC540KCs4/giphy.gif)
