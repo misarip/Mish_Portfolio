@@ -23,7 +23,7 @@ The following are my Projects:
 * ***Pet Owners & People with Cynophobia***: _The below project enabled me to to serve a human centered design approach by using research methods to understand people’s needs and goals, and to identify opportunity areas for new offerings._
 * ***Shopping at local Antique & Thrift Stores***: _The below project helped me understand customer experience challenges and create a strategic direction for the antiques and thrift store industry, in order to form meaningful relationships with their customers while triggering an internal change within the stores._
 * ***E-Waste recycling for Gaming Controllers***: _Below project led me to experience a process for innovation—identifying, understanding, conceptualizing, and realizing— to arrive at a new or novel product/service opportunity and solution._
-* ***MIYO - <Sub>Make It Your Own</sub>***: _Below project was a great experience of  working on an innovation project under a tight timeline._
+* **MIYO - _Make It Your Own_**: _Below project was a great experience of  working on an innovation project under a tight timeline._
 * ***Final Project***
 
 ![Coming Soon!](https://media.giphy.com/media/fUYp0iOzQfC540KCs4/giphy.gif)
