@@ -43,3 +43,6 @@ The following are my Projects:
 
     * This chart shows the ***Sum of GDP from 2019 till 2022 for the top 41 countries.***  The Radial spikes represent the Countries & labels display the total GDP & country's name.
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/14988185"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+4. **Difference between 2 charts**
+    * The difference between the two visualizations is that the first one shows each country's individual debt to GDP ratio progressing or declining per year in a Grided line chart.  The second chart shows the sum of the GDP of each country in the last 4 years.
