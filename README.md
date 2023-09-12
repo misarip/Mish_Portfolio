@@ -27,4 +27,4 @@ The following are my Projects:
 * ***Final Project***
 
 ## Data Visualization Assignments
-### [Assignment 2](Assignment 2.md)
+### [Assignment 2](Assignment_2/Assignment 2.md)
