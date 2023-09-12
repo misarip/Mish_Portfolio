@@ -27,4 +27,4 @@ The following are my Projects:
 * ***Final Project***
 
 ## Data Visualization Assignments
-### [Assignment 2](/master/tlngstrydataasgn2.md)
+### [Assignment 2](https://github.com/misarip/Mish_Portfolio/blob/2bf24511251fa0913179134390ff1c1047fa94d4/tlngstrydataasgn2)https://github.com/misarip/Mish_Portfolio/blob/2bf24511251fa0913179134390ff1c1047fa94d4/tlngstrydataasgn2)
