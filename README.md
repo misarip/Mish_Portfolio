@@ -26,4 +26,5 @@ The following are my Projects:
 * **MIYO - _Make It Your Own_**: _Below project was a great experience of  working on an innovation project under a tight timeline._
 * ***Final Project***
 
-![Coming Soon!](https://media.giphy.com/media/fUYp0iOzQfC540KCs4/giphy.gif)
+## Data Visualization Assignments
+# [Assignment 2](/tlngstrydataasgn2.md)
