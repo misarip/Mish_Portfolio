@@ -27,7 +27,7 @@ The following are my Projects:
 * ***Final Project***
 
 ## Data Visualization Assignments
-### [Assignment 2](/tlngstrydataasgn2.md)
+### [Assignment 2](Mish_Portfolio/tlngstrydataasgn2.md)
 
 1. **Government Debt chart for the year 2012**
 
