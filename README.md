@@ -27,4 +27,4 @@ The following are my Projects:
 * ***Final Project***
 
 ## Data Visualization Assignments
-### [Assignment 2](Mish_Portfolio/master/tlngstrydataasgn2.md)
+### [Assignment 2](/master/tlngstrydataasgn2.md)
