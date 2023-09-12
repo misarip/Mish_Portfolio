@@ -27,4 +27,4 @@ The following are my Projects:
 * ***Final Project***
 
 ## Data Visualization Assignments
-### [Assignment 2](Assignment_2/Assignment 2.md)
+### [Assignment 2](https://github.com/misarip/Assignment_2/blob/404b834c0b06339bc40ecd365e169cc34d29fe4f/Assignment%202.md)
