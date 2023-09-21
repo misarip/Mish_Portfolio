@@ -5,13 +5,13 @@ Last semester during my user research project, I carried out a survey and it had
 
 The intent of the researcher was to illustrate the intricate relationship between students' career choices and their overall well-being and academic performance. He has created two larger sets of data visualization – one using Python and other I believe Microsoft Excel.
 
-![1.png](/ASNG_3/1.png)
+![1.png](/ASNG 3/1.png)
 
 ![2.png](/ASNG_3/2.png)
 
 As I critiqued the above two charts using Stephen Few's Data Visualization Effectiveness Profile, the primary thing I realized that it was falling short on a lot of measures due to one major reason – Lack of a story that it wanted to tell. The data was presented in many pieces and these pieces had no meaning. The more I tried to read each graph/chart, the more I thought – So what? Out of the students who took the survey, 43.6% were female and 56.4% were male – but so what? That’s when I realized the need to make connections and draw links. This led to the following exercise where I tried to extract meaning out of the data presented. (Tool used – Procreate)
  
-![3.png](/ASNG_3/3.jpg)
+![3.jpg](/ASNG_3/3.jpg)
 
 This helped me put the information/data into context where it can provide the reader with various insights. By doing so, I generated the following preliminary graphs (Tool used – Tableau) on the following three new topics – 
 
