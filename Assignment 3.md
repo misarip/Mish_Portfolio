@@ -19,9 +19,9 @@ This helped me put the information/data into context where it can provide the re
 -	Students feel pressurized in choosing a career path when they focus on what factors in career decision making process?
 -	What Gender Feels More Assured in Their Career Choices? 
  
- ![4.png](/ASNG_3/greenpurple.png)
- ![5.png](/ASNG_3/blueorange.png)
- ![6.png](/ASNG_3/pies.png)
+ ![greenpurple.png](/ASNG_3/greenpurple.png)
+ ![blueorange.png](/ASNG_3/blueorange.png)
+ ![pies.png](/ASNG_3/pies.png)
   
 Feedback received on the above initial charts from peers – 
 -	The first and the second graphs, now that the data is combined from original, do have multiple stories to tell. Which story am I trying to tell? Try to narrow down and focus on one thing – go one level deeper in terms of story building. 
