@@ -29,4 +29,10 @@ Feedback received on the above initial charts from peers –
 -	The second pie chart – though it gives a useful information – is it needed as a visualization? If the information can be communicated through statement in simple manner – why not just use that ? For example, x% of men feel more confident in their career choices in comparison to only y% female. 
 -	The legends and labels could be made better. (at this point they were just placeholders).
 
+<iframe title="Report Section" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMjQzNmUwZWYtYmQyNS00Yjk4LWI0OWUtZmQ3ZGUxZGE3OTU4IiwidCI6ImUzNmVlMzhmLTkxYjgtNGRjYS05YjEzLWNhYTUzNjBjOTcxNCIsImMiOjF9" frameborder="0" allowFullScreen="true"></iframe>
+
+
+<iframe title="Report Section" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNmY0ODcwZWItMTg1OC00YTUxLWFlOGUtYzZhNmUzYjQ0NmQ5IiwidCI6ImUzNmVlMzhmLTkxYjgtNGRjYS05YjEzLWNhYTUzNjBjOTcxNCIsImMiOjF9" frameborder="0" allowFullScreen="true"></iframe>
+
+
 [Back to Portfolio](https://misarip.github.io/Mish_Portfolio/)
