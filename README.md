@@ -28,4 +28,4 @@ The following are my Projects:
 
 ## Data Visualization Assignments
 ### [Assignment 2](https://misarip.github.io/Assignment_2/)
-### [Assignment 3 & 4](https://misarip.github.io/Assignment3_4/)
+### [Assignment 3 & 4](https://misarip.github.io/Assignment-3-4/)
