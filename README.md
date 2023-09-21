@@ -27,7 +27,7 @@ The following are my Projects:
 * ***Final Project***
 
 ## Data Visualization Assignments
-### [Assignment 2](https://github.com/misarip/Assignment_2.git)
+### [Assignment 2](https://misarip.github.io/Assignment_2/)
 
 1. **Government Debt chart for the year 2012**
 
