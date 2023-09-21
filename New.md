@@ -5,7 +5,7 @@ Last semester during my user research project, I carried out a survey and it had
 
 The intent of the researcher was to illustrate the intricate relationship between students' career choices and their overall well-being and academic performance. He has created two larger sets of data visualization – one using Python and other I believe Microsoft Excel.
 
-![1.png](/1.png)
+![1.png](Assignment-3-4/1.png)
 
 ![2.png](/2.png)
 
