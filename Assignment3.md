@@ -90,10 +90,7 @@ Action steps from the feedback received -
 
 ## BUILDING THE SOLUTION
 
-<iframe title="Report Section" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMjQzNmUwZWYtYmQyNS00Yjk4LWI0OWUtZmQ3ZGUxZGE3OTU4IiwidCI6ImUzNmVlMzhmLTkxYjgtNGRjYS05YjEzLWNhYTUzNjBjOTcxNCIsImMiOjF9" frameborder="0" allowFullScreen="true"></iframe>
-
-
-<iframe title="Report Section" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNmY0ODcwZWItMTg1OC00YTUxLWFlOGUtYzZhNmUzYjQ0NmQ5IiwidCI6ImUzNmVlMzhmLTkxYjgtNGRjYS05YjEzLWNhYTUzNjBjOTcxNCIsImMiOjF9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Report Section" width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiYzRlMWJmYjQtYmQyZS00MGEyLThkYWQtYjA4ODQ3ZWUxZDRjIiwidCI6ImUzNmVlMzhmLTkxYjgtNGRjYS05YjEzLWNhYTUzNjBjOTcxNCIsImMiOjF9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 [Back to Portfolio](https://misarip.github.io/Mish_Portfolio/)
