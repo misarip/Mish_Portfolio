@@ -1,7 +1,8 @@
 # Assignment 3 & 4: Critique by Design
-By Mish Patel
+Mish Patel, Telling Stories with Data
 
-## Data visualization selection
+## DATA VISUALIZATION SELECTION
+
 Last semester during my user research project, I carried out a survey and it had a lot of yes/no questions in it. I had a difficult time in how to visually convey a data that didn’t have a lot of numeric data in order to get the point I was trying to make get across. Thus, this time I wanted to challenge myself and try out a data set that had was more on those lines. 
 Dataset and visualizations from : https://www.kaggle.com/code/mtalhazafar/student-career-path-and-decision-making-analysis/notebook#Are-you-confident-in-your-chosen-career-path?
 
@@ -11,7 +12,7 @@ The intent of the researcher was to illustrate the intricate relationship betwee
 
 ![2.png](ASGN3/2.png)
 
-## Analyzing the data visualtion
+## ANALYZING THE DATA VISUALIZATIONS
 I critiqued the above two charts using Stephen Few's Data Visualization Effectiveness Profile
 
 INFORMATIVE MEASURES 
@@ -39,7 +40,7 @@ There is no distraction from data, but it doesn’t even seem to be of a kind th
 
 In all, the primary realization was that it was falling short on a lot of measures due to one major reason – Lack of a story that it wanted to tell. The data was presented in many pieces and these pieces had no meaning. The more I tried to read each graph/chart, the more I thought – So what? Out of the students who took the survey, 43.6% were female and 56.4% were male – but so what? That’s when I realized the need to make connections and draw links. 
 
-## Initial Redesign of the data visualization - Extract & Convey Meaning
+## INITIAL REDESIGN - Extract & Convey Meaning
 
 Critiquing led to the exercise where I tried to extract meaning out of the data presented (Sketching Tool used – Procreate).This helped me put the information/data into context where it can provide the reader with various insights. 
  
@@ -50,20 +51,44 @@ By doing so, I generated the following preliminary graphs (Tool used – Tableau
 -	Fear of failure among students in Pakistan based on the reason behind their career choices. (How did students choose their career paths and what choices made them fear academic failure?)
 -	Students feel pressurized in choosing a career path when they focus on what factors in career decision making process?
 -	What Gender Feels More Assured in Their Career Choices? 
- 
+
+VISUALIZATION 1 : 
  ![greenpurple.png](ASGN3/greenpurple.png)
- 
+
+VISUALIZATION 2 : 
  ![blueorange.png](ASGN3/blueorange.png)
 
+VISUALIZATION 3 : 
  ![pies.png](ASGN3/pies.png)
   
-Feedback received on the above initial charts from peers – 
--	The first and the second graphs, now that the data is combined from original, do have multiple stories to tell. Which story am I trying to tell? Try to narrow down and focus on one thing – go one level deeper in terms of story building. 
--	For the first two, perhaps, the bar graphs could be placed next to each other to simplify the visual.
--	The second pie chart – though it gives a useful information – is it needed as a visualization? If the information can be communicated through statement in simple manner – why not just use that ? For example, x% of men feel more confident in their career choices in comparison to only y% female. 
--	The legends and labels could be made better. (at this point they were just placeholders).
+## TESTING THE SOLUTION
 
-## Final Design
+Approach: 
+-	Showed the original data visualizations and explained the creator’s intented meaning and purpose for it.  
+-	Presented my thoughts on them and sketches explaining what I was trying to do with my redesigns.
+-	Questions that were asked to the peer reviewers - 
+  What's the first thought you develop as you look at the graphic? 
+  Is the narrative apparent? 
+  What do you like/dislike?  
+  How is it helping you understand and where is it creating misinformation? 
+ 
+Peer Review Feedback 1:
+-	Like how you are overlapping two charts to create more insightful information. 
+-	The first and the second graphs, now that the data is combined from original, have multiple stories to tell. Which story am I trying to tell? Right now, there could be multiple as in people who pursue career mostly fear academic failure or it can also be people who seek professional counseling do not fear academic failure. Highlight one aspect of it.  Try to narrow down and focus on one thing – go one level deeper in terms of story building. 
+
+Peer Review Feedback 2: 
+- For the first two, perhaps, the bar graphs could be placed next to each other to simplify the visual.
+- The second pie chart – though it gives a useful information – is it needed as a visualization? If the information can be communicated through statement in simple manner – why not just use that? For example, x% of men feel more confident in their career choices in comparison to only y% female. 
+- The legends and labels could be made better; they are confusing are right now. What does Count of Student Responses data mean – can we just say Number of students? (at this point they were just placeholders).
+- Colors are very overwhelming – do we need these many colors?
+
+Action steps from the feedback received - 
+- Find an even more focused story, perhaps, and reflect that in the headline. 
+- Simply the use of colors. 
+- Question whether a visualization is needed to communicate the information.
+- Make sure labels are to the point and clear. 
+
+## BUILDING THE SOLUTION
 
 <iframe title="Report Section" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiMjQzNmUwZWYtYmQyNS00Yjk4LWI0OWUtZmQ3ZGUxZGE3OTU4IiwidCI6ImUzNmVlMzhmLTkxYjgtNGRjYS05YjEzLWNhYTUzNjBjOTcxNCIsImMiOjF9" frameborder="0" allowFullScreen="true"></iframe>
 
