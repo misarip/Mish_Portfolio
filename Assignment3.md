@@ -7,9 +7,9 @@ Dataset and visualizations from : https://www.kaggle.com/code/mtalhazafar/studen
 
 The intent of the researcher was to illustrate the intricate relationship between students' career choices and their overall well-being and academic performance. He has created two larger sets of data visualization – one using Python and other I believe Microsoft Excel.
 
-![1.png](/1.png)
+![1.png](ASGN3/1.png)
 
-![2.png](/2.png)
+![2.png](ASGN3/2.png)
 
 ## Analyzing the data visualtion
 I critiqued the above two charts using Stephen Few's Data Visualization Effectiveness Profile
@@ -43,7 +43,7 @@ In all, the primary realization was that it was falling short on a lot of measur
 
 Critiquing led to the exercise where I tried to extract meaning out of the data presented (Sketching Tool used – Procreate).This helped me put the information/data into context where it can provide the reader with various insights. 
  
-![3.png](/3.jpg)
+![3.png](ASGN3/3.jpg)
 
 By doing so, I generated the following preliminary graphs (Tool used – Tableau) on the following three new storylines – 
 
@@ -51,11 +51,11 @@ By doing so, I generated the following preliminary graphs (Tool used – Tableau
 -	Students feel pressurized in choosing a career path when they focus on what factors in career decision making process?
 -	What Gender Feels More Assured in Their Career Choices? 
  
- ![greenpurple.png](/greenpurple.png)
+ ![greenpurple.png](ASGN3/greenpurple.png)
  
- ![blueorange.png](/blueorange.png)
+ ![blueorange.png](ASGN3/blueorange.png)
 
- ![pies.png](/pies.png)
+ ![pies.png](ASGN3/pies.png)
   
 Feedback received on the above initial charts from peers – 
 -	The first and the second graphs, now that the data is combined from original, do have multiple stories to tell. Which story am I trying to tell? Try to narrow down and focus on one thing – go one level deeper in terms of story building. 
