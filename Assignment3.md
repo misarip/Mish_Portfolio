@@ -39,7 +39,7 @@ There is no distraction from data, but it doesn’t even seem to be of a kind th
 
 In all, the primary realization was that it was falling short on a lot of measures due to one major reason – Lack of a story that it wanted to tell. The data was presented in many pieces and these pieces had no meaning. The more I tried to read each graph/chart, the more I thought – So what? Out of the students who took the survey, 43.6% were female and 56.4% were male – but so what? That’s when I realized the need to make connections and draw links. 
 
- ## Initial Redesign of the data visualization - Extract & Convey Meaning
+## Initial Redesign of the data visualization - Extract & Convey Meaning
 
 Critiquing led to the exercise where I tried to extract meaning out of the data presented (Sketching Tool used – Procreate).This helped me put the information/data into context where it can provide the reader with various insights. 
  
