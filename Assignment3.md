@@ -73,8 +73,8 @@ Approach:
   How is it helping you understand and where is it creating misinformation? 
  
 Peer Review Feedback 1:
--	Like how you are overlapping two charts to create more insightful information. 
--	The first and the second graphs, now that the data is combined from original, have multiple stories to tell. Which story am I trying to tell? Right now, there could be multiple as in people who pursue career mostly fear academic failure or it can also be people who seek professional counseling do not fear academic failure. Highlight one aspect of it.  Try to narrow down and focus on one thing – go one level deeper in terms of story building. 
+-	I Like how you are overlapping two charts to create more insightful information. 
+-	The first and the second graphs, now that the data is combined from original, have multiple stories to tell. Which story are you trying to tell? Right now, there could be multiple ways to interpret this - people who pursue career mostly fear academic failure or it can also be people who seek professional counseling do not fear academic failure. Highlight one aspect of it.  Try to narrow down and focus on one thing – go one level deeper in terms of story building. 
 
 Peer Review Feedback 2: 
 - For the first two, perhaps, the bar graphs could be placed next to each other to simplify the visual.
