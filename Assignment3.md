@@ -90,9 +90,23 @@ Action steps from the feedback received -
 
 ## BUILDING THE SOLUTION
 
+### Final Design
+I re-looked at the connections that were made in the initial design earlier. I realized that even those three graphs didn’t relate to each other. To build up a sense of flow among the graphs I decided to take one category (Factors affecting Career-Decision making) and keep it constant across all data visualizations and see other categories in relation to it. 
+
+
+
+The charts are laid out in the following manner: 
+
+- What are the factors affecting the career decision-making process of the students who participated in the data collection? What is the most affecting factor to the least affecting factor? 
+- Next, Students who focus on which factors feel more confident in their choices than others? Even though I received peer feedback to narrow down my storyline in the prior section, I believe that since the difference
+  between the percentages of all factors is not drastically different, highlighting or focusing on one wouldn’t be effective. 
+- Next, we compare the factors between the two genders. We learn that while a large number of males pursue careers out of passion for a specific field, there is almost a balance between women opting for careers because
+  of passion and financial stability reasons. 
+- Lastly, we see when students seek career counseling. Again we can see that the difference between the percentages is not that much, which could lead us to an inference that the factors they keep in mind while choosing
+  careers might not have a direct relation to them seeking guidance. And the overall rate of people consulting advisors is low overall through all factors. 
 
 <iframe title="1" width="1300" height="1800" src="https://app.powerbi.com/view?r=eyJrIjoiMWEwYTdlMTItZmZhZC00MWE2LTlhOWMtYWIyMWI5NjViMzRlIiwidCI6ImUzNmVlMzhmLTkxYjgtNGRjYS05YjEzLWNhYTUzNjBjOTcxNCIsImMiOjF9" frameborder="0" allowFullScreen="true"></iframe>
 
-
+While I found the Good Charts critique model to critiquing a bit more useful as it allowed me to think more from a reader’s perspective, this method enabled me to think more as a designer and keep all the design principles that are important to keep into consideration to better communicate to the audience. Perhaps, I would add measures for use of appropriate chart type, order of information, focus drawn on which piece of information in relation to others, etc. The Redesign process made me exercise the skill of staying concise and to the point when building a narrative through data and picking the right amount of data to presented at a time for the audience to grasp it in a clear and quick manner. 
 
 [Back to Portfolio](https://misarip.github.io/Mish_Portfolio/)
