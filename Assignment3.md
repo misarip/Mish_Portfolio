@@ -90,7 +90,7 @@ Action steps from the feedback received -
 
 ## BUILDING THE SOLUTION
 
-<iframe title="Report Section" width="1200" height="1800" src="https://app.powerbi.com/view?r=eyJrIjoiMWEwYTdlMTItZmZhZC00MWE2LTlhOWMtYWIyMWI5NjViMzRlIiwidCI6ImUzNmVlMzhmLTkxYjgtNGRjYS05YjEzLWNhYTUzNjBjOTcxNCIsImMiOjF9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Report Section" width="900" height="1800" src="https://app.powerbi.com/view?r=eyJrIjoiMWEwYTdlMTItZmZhZC00MWE2LTlhOWMtYWIyMWI5NjViMzRlIiwidCI6ImUzNmVlMzhmLTkxYjgtNGRjYS05YjEzLWNhYTUzNjBjOTcxNCIsImMiOjF9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 
