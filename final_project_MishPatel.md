@@ -8,9 +8,9 @@ There are disabilities identified as Temporary and Situational disabilities by I
 
 When we look at how designers and developers use modern tools to provide accessible content to their website visitors, there is research done that can tell us that even when WCGA Guidelines are followed, web viewing is not fully accessible. Some interesting findings are - 
 
-An average of 50 accessibility errors per page were found in an analysis of over 1 million home pages<sup>[3]</sup>.
-83.9% of home pages had low-contrast text averaging 31 instances per home page<sup>[3]</sup>.
-Users with disabilities would expect to encounter errors on 1 in every 19 home page elements with which they engage<sup>[3]</sup>
+* An average of 50 accessibility errors per page were found in an analysis of over 1 million home pages<sup>[3]</sup>.
+* 83.9% of home pages had low-contrast text averaging 31 instances per home page<sup>[3]</sup>.
+* Users with disabilities would expect to encounter errors on 1 in every 19 home page elements with which they engage<sup>[3]</sup>
 
 As part of my final project, I want to build data visualizations that inform the audience, web designers, and developers, about the need to increase web accessibility to take into consideration all kinds of disabilities by visually communicating such vital findings. I want them to feel the scale of accessibility incorporated vs. left out and the number of users it impacts. 
 
