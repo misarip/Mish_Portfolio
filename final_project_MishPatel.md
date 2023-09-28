@@ -22,11 +22,9 @@ As part of my final project, I want to build data visualizations that inform the
 
 **References:**
 
-- [1]: [Webmd](https://www.webmd.com/healthy-aging/staying-healthy#:~:text=Color%2Dvision%20problems%20in%20the,with%20the%20red%2Dgreen%20spectrum)
-
-- [2]: [Epilepsysociety](https://epilepsysociety.org.uk/about-epilepsy/epileptic-seizures/seizure-triggers/photosensitive-epilepsy)
-
-- [3]: [Webaim](https://webaim.org/projects/million/)
+[1]: [Webmd](https://www.webmd.com/healthy-aging/staying-healthy#:~:text=Color%2Dvision%20problems%20in%20the,with%20the%20red%2Dgreen%20spectrum)
+[2]: [Epilepsysociety](https://epilepsysociety.org.uk/about-epilepsy/epileptic-seizures/seizure-triggers/photosensitive-epilepsy)
+[3]: [Webaim](https://webaim.org/projects/million/)
 
 
 ### Initial Sketches
