@@ -1,6 +1,7 @@
 # Final Project: Part I
 ### Outline
-** There is a need to increase Web accessibility and expand product offerings surrounding it. ** 
+
+**There is a need to increase Web accessibility and expand product offerings surrounding it.**
 
 ### Summary
 
