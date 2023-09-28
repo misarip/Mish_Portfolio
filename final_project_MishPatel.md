@@ -30,10 +30,10 @@ References:
 ![InitialSketch](InitialSketch.jpg)
 
 ### Data
-DataSet 1: [Majestic: The Majestic Million](https://majestic.com/reports/majestic-million)
-DataSet 2: [DomCop: Top 10 million domains](https://www.domcop.com/top-10-million-domains)
-DataSet 3: [Alexa: The Alexa Top 1,000,000 websites](Alexa.com/topsites)
-DataSet 4: [IEEE DataPort: WCAG 2.0 WEB ACCESSIBILITY TEST RESULTS](https://ieee-dataport.org/documents/wcag-20-web-accessibility-test-results#files)
+- DataSet 1: [Majestic: The Majestic Million](https://majestic.com/reports/majestic-million)
+- DataSet 2: [DomCop: Top 10 million domains](https://www.domcop.com/top-10-million-domains)
+- DataSet 3: [Alexa: The Alexa Top 1,000,000 websites](Alexa.com/topsites)
+- DataSet 4: [IEEE DataPort: WCAG 2.0 WEB ACCESSIBILITY TEST RESULTS](https://ieee-dataport.org/documents/wcag-20-web-accessibility-test-results#files)
 
 ### Method & Median
 
