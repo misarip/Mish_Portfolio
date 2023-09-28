@@ -21,6 +21,7 @@ As part of my final project, I want to build data visualizations that inform the
 **RESOLUTION:** Enable people with temporary, situational, or permanent limitations to individualize their interfaces to enhance their web viewing experience
 
 **References:**
+
 [1]: [Webmd](https://www.webmd.com/healthy-aging/staying-healthy#:~:text=Color%2Dvision%20problems%20in%20the,with%20the%20red%2Dgreen%20spectrum)
 
 [2]: [Epilepsysociety](https://epilepsysociety.org.uk/about-epilepsy/epileptic-seizures/seizure-triggers/photosensitive-epilepsy)
