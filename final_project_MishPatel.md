@@ -1,7 +1,7 @@
 # Final Project: Part I
 ### Outline
+### There is a need to increase Web accessibility and expand product offerings surrounding it. ###
 
-There is a need to increase Web accessibility and expand product offerings surrounding it.
 ### Summary
 
 There are disabilities identified as Temporary and Situational disabilities by Inclusive - Microsoft’s design Toolkit. Color-vision problems in the blue-yellow spectrum affected 45% of people in their mid-70s, and that proportion rose to two-thirds by the time people reached their mid-90s<sup>[1]</sup>. A study published in the Journal of Cognitive Psychology found that individuals with ADHD had difficulty distinguishing between important and unimportant information on news websites, leading to reduced recall of important information. Around 1 in 100 people have epilepsy and of these people, around 3% have photosensitive epilepsy. Photosensitive epilepsy is more common in children and young people (up to 5%)<sup>[2]</sup>. There are many other conditions that may affect the way one accesses the internet.
