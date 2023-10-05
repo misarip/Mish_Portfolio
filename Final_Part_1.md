@@ -40,5 +40,5 @@ As part of my final project, I want to build data visualizations that inform the
 I want to use scrolly-telling as a technique & therefore I would use a tool such as **'Shorthand'** or **'VEV'**.  Both the tools are fairly new to me.  I will watch a couple of tutorials & assess which tool would be fastest to learn & best suit me to complete this project.
 
 
-[Back to Final Project](final_project_MishPatel.md)<br> -: [Part-II](Final_Part_2.md)
-[Back to Portfolio](https://misarip.github.io/Mish_Portfolio/)
+[Back to Final Project](final_project_MishPatel.md)  -: [Part-II](Final_Part_2.md) 
+<br>[Back to Portfolio](https://misarip.github.io/Mish_Portfolio/)
