@@ -1,4 +1,5 @@
 # Final Project: Part I
+[PART-I](Final_Part_1.md) | [PART-II](Final_Part_2.md)
 ### Outline
 
 **There is a need to increase Web accessibility and expand product offerings surrounding it.**
