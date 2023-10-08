@@ -1,4 +1,4 @@
-# Final Project: Part I
+# Final Project:
 [PART-I](Final_Part_1.md) | [PART-II](Final_Part_2.md)
 ### Outline
 
