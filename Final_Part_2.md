@@ -1,4 +1,8 @@
 # High-Fidelity Wireframes:
+
+I used Figma, Shorthand, Tableau, and Flourish to create wireframes and storyboards, and conduct user research to improve my storytelling concept.
+* [My story on Shorthand](https://preview.shorthand.com/PHyUirO3oRUxfzYa)
+
 ## User Research 
 
 Through my story, I am trying to reach and educate designers, who use various tools to create great websites and who also follow WCGA guidelines, but still somehow fail to make these websites fully accessible, that the problem still exists.
@@ -67,8 +71,6 @@ AGE 29, PRODUCT MANAGER - Has knowledge of how to convey product opportunity gap
 
 _The visuals could be enhanced through more consistent use of color palettes across charts, optimized contrast for readability, and design adjustments like hover-over data, labels directly on graphs, slowed animations, and reworked layouts to allow quicker comprehension of key data points and relationships. Transitions between sections could be smoothed by improving accompanying visuals and graphics to add clarity. Modifying images to align with core messages and using color gradients to better illustrate correlations are other visual refinements suggested._
 
-I used Figma, Shorthand, Tableau, and Flourish to create wireframes and storyboards, and conduct user research to improve my storytelling concept.
-* [My story on Shorthand](https://preview.shorthand.com/PHyUirO3oRUxfzYa)
 
 
 [Back to Final Project](final_project_MishPatel.md)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;| [Part-I](Final_Part_1.md) |<br>
