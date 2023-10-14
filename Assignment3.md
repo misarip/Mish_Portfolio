@@ -4,7 +4,7 @@
 ### DATA VISUALIZATION SELECTION
 
 Last semester during my user research project, I carried out a survey and it had a lot of yes/no questions in it. I had a difficult time in how to visually convey a data that didn’t have a lot of numeric data in order to get the point I was trying to make get across. Thus, this time I wanted to challenge myself and try out a data set that had was more on those lines. <br>
-[Dataset and visualizations Source Here](https://www.kaggle.com/code/mtalhazafar/student-career-path-and-decision-making-analysis/notebook#Are-you-confident-in-your-chosen-career-path?)
+[Dataset and Visualizations Source here](https://www.kaggle.com/code/mtalhazafar/student-career-path-and-decision-making-analysis/notebook#Are-you-confident-in-your-chosen-career-path?)
 
 The intent of the researcher was to illustrate the intricate relationship between students' career choices and their overall well-being and academic performance. He has created two larger sets of data visualization – one using Python and other I believe Microsoft Excel.
 
