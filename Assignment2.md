@@ -1,5 +1,5 @@
-# Data Visualization Assignments
-## Assignment 2
+# Assignment 2
+## Visualizing Government Debt
 
 1. **Government Debt chart for the year 2012**
 
