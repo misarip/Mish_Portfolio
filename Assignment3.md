@@ -52,13 +52,13 @@ By doing so, I generated the following preliminary graphs (Tool used – Tableau
 -	Students feel pressurized in choosing a career path when they focus on what factors in career decision making process?
 -	What Gender Feels More Assured in Their Career Choices? 
 
-VISUALIZATION 1 : 
+VISUALIZATION 1 : <br>
  ![greenpurple.png](ASGN3/greenpurple.png)
 
-VISUALIZATION 2 : 
+VISUALIZATION 2 : <br>
  ![blueorange.png](ASGN3/blueorange.png)
 
-VISUALIZATION 3 : 
+VISUALIZATION 3 : <br>
  ![pies.png](ASGN3/pies.png)
   
 ### TESTING THE SOLUTION
