@@ -1,7 +1,7 @@
-# Assignment 3 & 4: Critique by Design
-Mish Patel, Telling Stories with Data
+# Assignment 3 & 4
+##Critique by Design
 
-## DATA VISUALIZATION SELECTION
+### DATA VISUALIZATION SELECTION
 
 Last semester during my user research project, I carried out a survey and it had a lot of yes/no questions in it. I had a difficult time in how to visually convey a data that didn’t have a lot of numeric data in order to get the point I was trying to make get across. Thus, this time I wanted to challenge myself and try out a data set that had was more on those lines. 
 Dataset and visualizations from : https://www.kaggle.com/code/mtalhazafar/student-career-path-and-decision-making-analysis/notebook#Are-you-confident-in-your-chosen-career-path?
@@ -12,7 +12,7 @@ The intent of the researcher was to illustrate the intricate relationship betwee
 
 ![2.png](ASGN3/2.png)
 
-## ANALYZING THE DATA VISUALIZATIONS
+### ANALYZING THE DATA VISUALIZATIONS
 I critiqued the above two charts using Stephen Few's Data Visualization Effectiveness Profile
 
 INFORMATIVE MEASURES 
@@ -40,7 +40,7 @@ There is no distraction from data, but it doesn’t even seem to be of a kind th
 
 In all, the primary realization was that it was falling short on a lot of measures due to one major reason – Lack of a story that it wanted to tell. The data was presented in many pieces and these pieces had no meaning. The more I tried to read each graph/chart, the more I thought – So what? Out of the students who took the survey, 43.6% were female and 56.4% were male – but so what? That’s when I realized the need to make connections and draw links. 
 
-## INITIAL REDESIGN - Extract & Convey Meaning
+### INITIAL REDESIGN - Extract & Convey Meaning
 
 Critiquing led to the exercise where I tried to extract meaning out of the data presented (Sketching Tool used – Procreate).This helped me put the information/data into context where it can provide the reader with various insights. 
  
@@ -61,7 +61,7 @@ VISUALIZATION 2 :
 VISUALIZATION 3 : 
  ![pies.png](ASGN3/pies.png)
   
-## TESTING THE SOLUTION
+### TESTING THE SOLUTION
 
 Approach: 
 -	Showed the original data visualizations and explained the creator’s intented meaning and purpose for it.  
@@ -88,9 +88,9 @@ Action steps from the feedback received -
 - Question whether a visualization is needed to communicate the information.
 - Make sure labels are to the point and clear. 
 
-## BUILDING THE SOLUTION
+### BUILDING THE SOLUTION
 
-### Final Design
+#### Final Design
 I re-looked at the connections that were made in the initial design earlier. I realized that even those three graphs didn’t relate to each other. To build up a sense of flow among the graphs I decided to take one category (Factors affecting Career-Decision making) and keep it constant across all data visualizations and see other categories in relation to it. 
 
 
