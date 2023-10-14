@@ -41,4 +41,4 @@ I want to use scrolly-telling as a technique & therefore I would use a tool such
 
 
 [Back to Final Project](final_project_MishPatel.md)    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | [Part-II](Final_Part_2.md) |<br>
-[Back to Portfolio](https://misarip.github.io/Mish_Portfolio/)
+[Back to Portfolio](README.md)
