@@ -30,4 +30,3 @@ The following are my Projects:
 ### [Assignment 2](Assignment2.md)
 ### [Assignment 3 & 4](Assignment3.md)
 ### [Final Project (Part-I, PART-II)](final_project_MishPatel.md)
-[Back to Portfolio](Main_Page.md)
