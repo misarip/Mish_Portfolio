@@ -1,5 +1,5 @@
 # Assignment 3 & 4
-##Critique by Design
+## Critique by Design
 
 ### DATA VISUALIZATION SELECTION
 
