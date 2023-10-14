@@ -1,4 +1,4 @@
-# Mish_Portfolio
+# Telling Stories with Data_Mish Patel
 ## About me
 I am a User-Experience Designer aspiring to design highly impactful strategies, driven by curiosity, fueled by diverse experience, and sustained by pragmatism. Currently, pursuing my master's degree in Integrated Innovation for Products and Services from Carnegie Mellon University, I am learning about the different aspects of product development including design, engineering, and business.
 
