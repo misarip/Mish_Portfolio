@@ -19,4 +19,4 @@
 4. **Difference between 2 charts**
     * The difference between the two visualizations is that the first one shows each country's individual debt to GDP ratio progressing or declining per year in a Grided line chart.  The second chart shows the sum of the GDP of each country in the last 4 years.
 
-[Back to Portfolio](https://misarip.github.io/Mish_Portfolio/)
+[Back to Portfolio](README.md)
