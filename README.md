@@ -1,32 +1,33 @@
+Portfolio of Data Visualization Projects 
+
 ## Hi There!
 
 I am a User-Experience Designer aspiring to design highly impactful strategies, driven by curiosity, fueled by diverse experience, and sustained by pragmatism. Currently, pursuing my master's degree in Integrated Innovation for Products and Services from Carnegie Mellon University, I am learning about the different aspects of product development including design, engineering, and business.
 
-I enjoy conducting user interviews, deconstructing data to develop insights, communicating those insights to stakeholders, iterating on prototypes, and eventually defining the strategic directions to address the relevant challenges.      
+During my tenure at Carnegie Mellon, my enthusiasm drove me to enhance my data visualization skills. This motivation led me to enroll in a course Telling Stories with Data, instructed by Chris Goranson, during the fall of 2023, where I aimed to grasp the knowledge of transforming intricate datasets into engaging visual narratives that convey insights effectively.
 
-For the past 3+ years, I have been working in a hospitality design firm designing luxury experiences that create significant moments for different types of travelers worldwide. My background and current studies enable me to design products and customer experiences to help companies innovate and shift to being life-centered while preserving the company's self-interest.
+My objective was to learn diverse data visualization tools and techniques, comprehend the fundamental principles of visual design, and delve into the intricacies of storytelling through data. I aspired to become proficient in choosing the appropriate visualization methods for varying data types and audiences. Additionally, I aimed to refine my ability to critically evaluate and enhance existing visualizations.
 
-Please also refer to my [Website](https://www.misaripatel.com/)
+The below collection represents my journey in honing these skills, urndertaken during the 7 week long course. 
 
-## What I hope to learn
+### [Visualizing Government Debt](Assignment2.md)
+### [Critique by Design](Assignment3.md)
+### [Web through all lenses_Final Project](final_project_MishPatel.md)
 
-My foremost objective is to acquire the skill set in Data Visualization.  This course will help me highlight:
+## What I learned
+
 * Understanding Data
 * Storytelling via Data
 * Analyzing Data Visualization
 * Creating compelling visuals
 * Innovate & Experiment
 * Hands-on Training
-  
-## Portfolio
-The following are my Projects:
-* ***Pet Owners & People with Cynophobia***: _The below project enabled me to to serve a human centered design approach by using research methods to understand people’s needs and goals, and to identify opportunity areas for new offerings._
-* ***Shopping at local Antique & Thrift Stores***: _The below project helped me understand customer experience challenges and create a strategic direction for the antiques and thrift store industry, in order to form meaningful relationships with their customers while triggering an internal change within the stores._
-* ***E-Waste recycling for Gaming Controllers***: _Below project led me to experience a process for innovation—identifying, understanding, conceptualizing, and realizing— to arrive at a new or novel product/service opportunity and solution._
-* **MIYO - _Make It Your Own_**: _Below project was a great experience of  working on an innovation project under a tight timeline._
-* ***Final Project***
 
-## Data Visualization Assignments
-### [Assignment 2](Assignment2.md)
-### [Assignment 3 & 4](Assignment3.md)
-### [Final Project (Part-I, PART-II)](final_project_MishPatel.md)
+You can also view my User Experience & Research projects on my [Website](https://www.misaripatel.com/)
+  
+## Projects you can explore there -
+* ***Social AL&ML for Harley Davidson***: _TWorking towards creating a scalable framework for the brand, inclusive of user needs, to drive and measure purchase through personalization.._
+* ***LINKth for Volvo MACK***: _Developed a service that simplifies daily maintenance routine and reduces daily inspection time by 80% for Truck Owner/Operators in Construction industry via Mobile App._
+* ***MIYO***: _Conceptualized and designed a browser extension powered by AI to individualize web browsing for people with temporal and situational disabilities._
+
+
