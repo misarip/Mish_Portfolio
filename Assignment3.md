@@ -109,4 +109,4 @@ The charts are laid out in the following manner:
 
 While I found the Good Charts critique model to critiquing a bit more useful as it allowed me to think more from a reader’s perspective, this method enabled me to think more as a designer and keep all the design principles that are important to keep into consideration to better communicate to the audience. Perhaps, I would add measures for use of appropriate chart type, order of information, focus drawn on which piece of information in relation to others, etc. The Redesign process made me exercise the skill of staying concise and to the point when building a narrative through data and picking the right amount of data to presented at a time for the audience to grasp it in a clear and quick manner. 
 
-[Back to Portfolio](https://misarip.github.io/Mish_Portfolio/)
+[Back to Portfolio](README.md)
